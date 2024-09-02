@@ -2,3 +2,5 @@ Hibernate
 Spring Boot
 Java
 Sql
+Python
+C#
