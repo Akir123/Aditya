@@ -1,12 +1,4 @@
-Mu
-Java
-Sql
-Python
-C#
-Dog
-Cat
-Man
-Women
-gay
-other
-wow
+adi
+shashi
+tu 
+mr
