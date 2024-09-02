@@ -4,3 +4,5 @@ Java
 Sql
 Python
 C#
+Dino
+Tiger
