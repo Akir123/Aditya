@@ -8,4 +8,5 @@ Dog
 Cat
 Man
 Women
-
+gay
+other
